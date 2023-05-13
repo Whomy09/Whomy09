@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div id="header" aling="center">
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200"/>
+  <h1 aling="center"> Hi 👋, I'm Whomy09</h1>
+  <h3 aling="center"> A passionate web developer from Colombia. I like to be learning new things and doing projects with my friends.</h3>
+</div>
 <!--
 **Whomy09/Whomy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
