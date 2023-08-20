@@ -24,7 +24,6 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="VUE" alt="VUE" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="VUE" alt="VUE" width="40" height="40"/>
   </div>
 </div>
 
