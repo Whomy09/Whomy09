@@ -26,13 +26,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="VUE" alt="VUE" width="40" height="40"/>
   </div>
 </div>
-
----
-
-### 📊 My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Whomy09&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whomy09&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whomy09&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
