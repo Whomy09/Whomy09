@@ -19,7 +19,7 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWINDCSS" alt="TAILWINDCSS" width="40" height="40"/>
+    <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" title="TAILWINDCSS" alt="TAILWINDCSS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="40" height="40"/>
